@@ -1,8 +1,3 @@
-# animation_demo
+Demo of animation in flutter
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![demo](https://github.com/bhaveshagrawal1014/flutter_animation_demo/blob/master/demo.gif)
